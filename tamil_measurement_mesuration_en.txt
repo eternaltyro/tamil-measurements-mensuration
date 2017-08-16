@@ -1,0 +1,233 @@
+﻿Units of Measurement and Mensuration
+====================================
+
+Introduction
+
+   This document attempts to record as many units of measurement and
+   mensuration from ancient Tamil literature.  It documents the types of
+   measurement, the specific uses for specific measurement types. The
+   types of measurements overall that have been attempted to be
+   documented here are given below:
+
+   1. Time - Seasons, short spans, etc.
+   2. Velocity - Vector distance traveled per unit time
+   3. Weight - Gold weight, Grain weight
+   4. Counts - Numbers, small and large
+   5. Area - Land area - construction and crop lands
+   6. Volumetric - Solid volume & Liquid volume
+   7. Currency - units of money
+
+What was measured?
+
+Time Measures
+
+   Time measures were used to measure expanses of time, both short and
+   long.  Time measures were used to measure microtime - like seconds,
+   hours - or standard time measures - like days, weeks - and even long
+   seasonal measures.
+
+Time::Microtime
+
+   Microtime measures were perhaps used to clock activities like race
+   sports, etc.  The shortest unit of microtime measure is one naligai
+   or a second. Technically, it's the time taken to snap your fingers
+   once.
+
+   This time was also perhaps used to measure length of pronounciation
+   of letters.  The short letters - kuril - were timed to take one
+   naaligai to pronounce while the long letters - nedil - were timed to
+   take two.  The basic consonants - oRRu - took half a naaligai to be
+   pronounced.  These rules are defined in Tolkappiyam (??)
+
+Time::Standard Time
+
+   Standard time is the standard measure of time in common use like
+   hours, days and weeks.  Since Tamils were following the solar
+   calendar too, 
+
+
+   காலை
+   முற்பகல் (forenoon)
+   நண்பகல்
+   ஏற்பாடு - time during sun rise
+   பிற்பகல் (afternoon)
+   இடையாமம் - midnight  
+   வைகறை - day break 
+   சாமம் - night
+   நிசி - night
+
+Time::Seasonal Time
+
+   Seasonal time are long spans of time corresponding to months, seasons
+   and years.  The Tamil calendar follows the solar calendar system.
+   The number of days in a Tamil calendar can be between 29 and 32.  The
+   months are:
+
+   - Cittirai        - Aipasi
+   - Vaikasi         - Karthikai
+   - Ani             - Margazhi
+   - Adi             - Thai
+   - Avani           - Masi
+   - Purattasi       - Pankuni
+
+   The seasons are:
+
+   - Ilavenil            - Kuuthir
+   - Muthuvenil          - Mun-pani
+   - Kaar                - Pin-pani
+
+Length
+
+   Length is the distance between points on the sides of objects.
+   Length measures were used to measure land dimensions, dimensions of
+   building blocks, etc.  Land dimensions were used to calculate area,
+   perhaps.  
+
+Distance
+
+   Distance is the measure of seperation of points in geography.  It is
+   used to calculate how far apart two points on a flat plane or a large
+   ellipsoid (earth) are.
+
+
+Area
+
+
+Volume
+
+
+Weight
+
+   Weight measures were primarily used to weigh precious metals and
+   gems and also food grains and possibly wood.  However, the units used
+   for measuring gold weights are different from those used for other
+   elements.
+
+   Gold Weight
+
+      Gold weight measures were used to measure very small amounts of
+      metal.
+
+Measurement – what is?
+Types of Measures
+Time - கால அளவை 
+Weight (Gold and Precious Stones / Goods and food ) - பொன் நிறுத்தல் அளவை 
+Distance / Length - நீட்டல் அளவை
+Speed - வேகம்.
+Money - பணம்
+Count - எண்ணிக்கை.
+Volumetric (Solid and Liquid volumes) - முகத்தல் அளவை 
+Area - பரப்பளவு 
+Divisions of Day ( Morning / evening / Noon)
+அறுபொழுது / சிறுபொழுது - மாலை, யாமம், வைகறை, விடியல், நண்பகல், எற்பாடு
+Divisions by Day ( Week, month, fortnight)
+Divisions by week ( month)
+Divisions by month (year)
+Divisions by years ()
+divisions in astrology
+Names of Tamil Days, Months and Years
+Names of seasons – பெரும்பொழுது / பருவம்
+கார்
+கூதிர் 
+முன்பனி
+பின்பனி
+இளவேனில்
+முதிர்வேனில்
+ருது - two months
+
+Redundancy
+Mensuration – What is?
+Contemporary units of measurement
+Ancient units of measurement
+Ancient units still in use
+Tamil Literature
+பதிற்றுப்பத்து
+Stages of a girl's age
+பேதை - 5 to 7 years
+பெதும்பை - 8 to 11 years
+மங்கை - 12 to 13 years
+மடந்தை - 14 to 19 years
+அரிவை - 20 to 25 years
+தெரிவை - 26 to 31 years
+பேரிளம்பெண் - 32 to 40 years
+Stages of a boy's life
+
+'அரிவை தெரிவை பேரிளம் பெண்ணெனப்
+பாற்படு மகளிர் பருவக் காதல்
+நோக்கி உரைப்பது நுண்ணியோர் கடனே.’ 
+- பன். பாட். 220
+
+பேதைக்கு யாண்டே ஐந்துமுதல் எட்டே. - ௨௨௧ 
+பெதும்பைக்கு யாண்டே ஒன்பதும் பத்தும்.’ - ௨௨௨
+மங்கைக்கு யாண்டே பதினொன்று முதலாத்
+திரண்ட பதினா லளவும் சாற்றும்.’ - ௨௨௩
+மடந்தைக்கு யாண்டே பதினைந்து முதலாத்
+திடம்படும் ஒன்பதிற் றிரட்டி செப்பும்.’  - ௨௨௪
+அரிவைக்கு யாண்டே அறுநான்கு என்ப.’ - ௨௨௫
+தெரிவைக்கு யாண்டே இருபத் தொன்பது.’ - ௨௨௬
+ஈரைந்து இருநான்கு இரட்டி கொண்டது 
+பேரிளம் பெண்டுக்கு இயல்புஎன மொழிப' - ௨௨௭ 
+காட்டிய முறையே நாட்டிய ஆண்பாற்கு
+எல்லையும் பெயரும் இயல்புற ஆய்ந்து
+சொல்லிய தொன்னெறிப் புலவரும் உளரே' - ௨௨௮
+
+==
+
+‘பாலன் யாண்டே ஏழ்என மொழிப.’ - ௨௨௯
+‘மீளி யாண்டே பத்துஇயை காறும்.’ - ௨௩௦
+‘மறவோன் யாண்டே பதினான் காகும்.’ - ௨௩௧
+‘திறலோன் யாண்டே பதினைந்து ஆகும்.’  - ௨௩௨
+‘பதினாறு எல்லை காளைக்கு யாண்டே.’  - ௨௩௩
+‘அத்திறம் இறந்த முப்பதின் காறும் 
+விடலைக்கு ஆகும்; மிகினே முதுமகன்.’  - ௨௩௪
+‘நீடிய நாற்பத் தெட்டின் அளவும்
+ஆடவர்க்கு உலாப்புறம் உரித்து என மொழிப.’ - ௨௩௫
+­
+பதிற்றுப்பத்து
+திருமந்திரம் 
+
+ஏழாம் தந்திரம்: 2011 ஆம் பாடல் 
+
+மேவிய சீவன் வடிவது சொல்லிடில்
+கோவின் மயிர்ஒன்று நூறுடன் கூறிட்டு
+மேவிய கூறது ஆயிரம் ஆயினால்
+ஆவியின் கூறுநா றாயிரத்து ஒன்றே.
+
+http://projectmadurai.org/pm_etexts/utf8/pmuni0010_01.html
+
+அணுத்தேர்த்துகள் பஞ்சிற்றூய் மயிரன்றி
+மணற்கடுகு நெல் விரலென்றேற-வணுத்தொடங்க
+யெட்டோடு மன்னு விரற் பன்னிரண்டார் சாணாக்கி
+லச்சாணிரண்டு முழமாம்
+
+- செந்தமிழ் தொகுதி 12 P127
+
+இடைக்காடர் பாடல் அணுகுண்டுக் கொள்கையை நினைவுப்படுத்தும். ஒரு அணுவைத் துளைத்தால் ஏழு கடல் ஆற்றல் கிடைக்கும். பரிபாடல் (3-53), புறநானுறு (2) ஆகிய பாடல்களுக்கு உரை எழுதியோர் “உலகம் அணுக்களால் ஆனது” என்றும் “அணுச் செறிந்த உலகம்” என்றும் எழுதியுள்ளனர். இன்றைய அறிவியலில் நாம் படிக்கும் அணுவும் உரையாசிரியர்கள் கூறிய அணுவும் வேறு வேறாக இருக்கலாம். ஆயினும் மிகச் சிற்¢ய பொருள்/துகள் எனும் கருத்திலேயே அவர்கள் பயன்படுத்தினர்.
+
+ஒரு கடுகில் 2,62,144 அணு!
+
+ஒரு பழந்தமிழ்ப் பாட்டு அணு பற்றிய தமிழர்களின் அறிவை விளக்குகிறது.
+
+8 அணு = ஒரு தேர்த்துகள்
+8 தேர்த்துகள் =ஒரு பஞ்சிழை
+8பஞ்சிழை = ஒரு மயிர்
+8 மயிர் = ஒரு மணல்
+8 மணல் = ஒரு கடுகு
+8 கடுகு = ஒரு நெல்,
+8 நெல் = ஒரு விரல்
+12 விரல் = ஒரு சாண்
+2 சாண் = ஒரு முழம்
+4 முழம் = ஒரு கோல்
+500 கோல் = ஒரு கூப்பீடு
+4கூப்பீடு = ஒரு காதம்
+
+
+
+திருமூலர் கணக்கு
+
+ஒரு மாட்டின் முடியை எடுத்து ஆயிரம் கோடி இழைகளாகப் பகுப்பது பற்றிப் பேசுகிறார். ஒரு மாட்டின் முடியை எடுத்து அதை நூறு கூறாக்கச் சொல்கிறார். பின்னர் அதிலிருந்து ஒரு முடியெடுத்து ஆயிரம் கூறாக்கச் சொல்கிறார். அவ்வாறு ஆயிரம் கூறு போட்டதில் ஒரு முடியை எடுத்து அதை நூறாயிரம் கூறு போடச் சொல்கிறார். இதுதான் ஜீவனின் வடிவம் என்கிறார்.
+
+அதாவது ஒரு மாட்டின் முடியை ஆயிரம் கோடி இழைகளாகப் பகுப்பது பற்றிப் பேசுகிறார். இவர்கள் அணுவைப் பிளப்பதை மனக்கண்ணில் கண்டார்கள் என்றால் அது மிகையல்ல.
+
+ihttps://tamilandvedas.wordpress.com/2012/08/08/amazing-tamil-mathematics/
+http://www.gutenberg.us/articles/tamil_units_of_measurement
